@@ -1,5 +1,5 @@
 # Sample Portfolio
-GitHub pages site with a portfolio layout
+This is a GitHub pages site with an introduction, portfolio layout and contact information.  
 
 ## Go To Pages
 https://drewwmercer.github.io/
