@@ -9,3 +9,4 @@ http://www.drewwmercer.xyz/ (custom domain linked to drewwmercer.github.io)
 * HTML
 * CSS
 * Bootstrap
+* Font Awesome (for custom fonts and icons)
