@@ -9,18 +9,18 @@
     "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
   },
   "devDependencies": {
-    "bootstrap": "^3.3.7",
-    "browser-sync": "^2.13.0",
-    "font-awesome": "^4.6.3",
-    "gulp": "^3.9.1",
-    "gulp-clean-css": "^2.0.10",
-    "gulp-header": "^1.8.7",
-    "gulp-less": "^3.1.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-uglify": "^1.5.4",
-    "jquery": "^3.0.0",
+    "bootstrap": "^4.3.1",
+    "browser-sync": "^2.26.7",
+    "font-awesome": "^4.7.0",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-header": "^2.0.9",
+    "gulp-less": "^4.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.4.1",
     "magnific-popup": "^1.1.0",
-    "scrollreveal": "^3.1.4"
+    "scrollreveal": "^4.0.5"
   },
   "repository": {
     "type": "git",
